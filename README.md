@@ -1,4 +1,3 @@
-# Bruno Gama
 ### Olá eu sou o Bruno Gama
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CE5E80&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
