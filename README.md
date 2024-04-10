@@ -12,7 +12,7 @@
 </br>
 
 <div align="center">
-<a href="x" target="_blank">Currículo</a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/QgrcJHrhwMVLKJJjTlmMNwjBznxGTGPmrml?projector=1&messagePartId=0.1" target="_blank">Currículo</a>
 </div>
 
 </br>
