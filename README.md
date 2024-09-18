@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-<a href="https://github.com/Gamabg/Gamabg/blob/main/Curri%CC%81culo%20Bruno%20Gama%20.pdf" target="_blank">Currículo</a>
+<a href="[https://github.com/Gamabg/Gamabg/blob/main/Curri%CC%81culo%20Bruno%20Gama%20.pdf](https://www.canva.com/design/DAGP8fCjC58/nDGFaWZt5m_8n9rkwO0YHA/view?utm_content=DAGP8fCjC58&utm_campaign=designshare&utm_medium=link&utm_source=editor)" target="_blank">Currículo</a>
 </div>
 
 ###
