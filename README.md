@@ -52,6 +52,10 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
+<div align="center">
+<a href="https://github.com/Gamabg/Gamabg/blob/main/Curr%C3%ADculo.pdf" target="_blank">Currículo</a>
+</div>
+
 ###
 
 <div align="center">
