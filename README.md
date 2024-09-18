@@ -53,7 +53,7 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/Gamabg/Gamabg/blob/main/Curriculo Bruno Gama.pdf" target="_blank">Currículo</a>
+<a href="https://github.com/Gamabg/Gamabg/blob/main/Curri%CC%81culo%20Bruno%20Gama%20.pdf" target="_blank">Currículo</a>
 </div>
 
 ###
