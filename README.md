@@ -59,9 +59,10 @@
 </div>
 
 ###
-
+<!--
 <div align="center">
-<a href="https://www.canva.com/design/DAGP8fCjC58/nDGFaWZt5m_8n9rkwO0YHA/view?utm_content=DAGP8fCjC58&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Currículo</a>
+<a href="" target="_blank">Currículo</a>
 </div>
+-->
 
 ###
