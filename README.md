@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Ensino Médio Técnico<br>🎯 Goals: dev full-stack <br>🎲 Fun fact: gosto muito de treinar</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Engenharia de Software<br>🎯 Goals: dev full-stack <br>🎲 Fun fact: gosto muito de treinar</p>
 
 ###
 
