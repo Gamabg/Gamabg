@@ -1,8 +1,88 @@
-<h1 align="left">Hey 👋 E aí, tudo certo?</h1>
-<p align="left">Sou o Bruno — estudante de Engenharia de Software na FIAP, apaixonado por tecnologia onde já fui monitor de TI por lá também. <br>🚀 Minha jornada no mundo tech tem sido cheia de código, desafios e muita vontade de aprender. Já quebrei bastante a cabeça (e alguns sistemas 😅), mas tudo isso faz parte da diversão!</p>
-<h2 align="left">🚀 Sobre mim</h2>
-<p align="left">✨ Criando bugs desde 2022<br>📚 Estudando Engenharia de Software<br>🎯 Objetivo: me tornar um Dev Full-Stack brabo<br>🏋️ Curiosidade: adoro treinar e cuidar da saúde!</p>
-<h2 align="left">🛠️ Tecnologias que eu uso</h2>
-<br clear="both"> <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="AngularJS" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" /> </div>
-<h2 align="left">💼 Bora se conectar!</h2> <div align="center"> <a href="https://www.linkedin.com/in/gamabg?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /> </a> </div>
-<h2 align="left">📊 Minhas stats no GitHub</h2> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gamabg&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="Gráfico de linguagens" /> </div>
+<h1 align="center">✨ Fala aí, eu sou o Bruno! ✨</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Estudante+de+Engenharia+de+Software;Formado+em+Técnico+em+Informática;Futuro+Dev+Full-Stack;Apaixonado+por+tecnologia!+🚀" alt="Typing SVG" />
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Cursando **Engenharia de Software** na **FIAP**  
+- 🎓 Formado em **Ensino Médio Técnico em Informática** pela **FIAP**  
+- 🚀 Buscando me tornar um **Dev Full-Stack**  
+- 🏋️‍♂️ Amante de academia e desafios!  
+- 💡 Já atuei como **Monitor de TI**, apoiando colegas e aprendendo muito!
+
+---
+
+## 🚀 Tech Stack & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,html,css,bootstrap,figma,illustrator,mssql,azure" alt="Tech Stack" />
+</p>
+
+---
+
+## 🌍 Onde me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gamabg?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## 📁 Meus Projetos
+
+> Aqui você pode colocar links pros seus projetos mais legais, com descrição!
+
+- 🔗 [Projeto 1](https://calimind.vercel.app/) — Descrição rápida sobre o projeto  
+- 🔗 [Projeto 2](https://vinheriaagnello.vercel.app/) — Descrição rápida sobre o projeto  
+- 🔗 [Projeto 3](https://provafiap.vercel.app/) — Descrição rápida sobre o projeto  
+
+---
+
+## 📄 Meu Currículo
+
+- 👉 [Acesse meu currículo aqui](#)  
+
+---
+
+## 🌐 Meus Sites e Portfólios
+
+- 🌍 [Meu Portfólio](https://portifoliobgm.vercel.app/)  
+- 🌍 [Meu Blog/Página Pessoal](#)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gamabg&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamabg&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+## 🏆 Conquistas e Atividades
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gamabg&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" />
+</p>
+
+---
+
+## ⚡ Curiosidades
+
+- 🛠️ Sempre aprendendo algo novo!  
+- 👾 Não tenho medo de quebrar o código… faz parte!  
+- 🤝 Adoro colaborar e trocar ideias sobre tecnologia.
+
+---
+
+**⭐ Vamos nos conectar e construir coisas incríveis juntos!**
