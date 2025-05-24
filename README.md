@@ -1,8 +1,4 @@
-<h1 align="center">✨ Fala aí, eu sou o Bruno! ✨</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Estudante+de+Engenharia+de+Software;Formado+em+Técnico+em+Informática;Futuro+Dev+Full-Stack;Apaixonado+por+tecnologia!+🚀" alt="Typing SVG" />
-</p>
+<h1 align="center"> Fala aí, eu sou o Bruno! </h1>
 
 ---
 
@@ -38,21 +34,21 @@
 
 > Aqui você pode colocar links pros seus projetos mais legais, com descrição!
 
-- 🔗 [Projeto 1](#) — Descrição rápida sobre o projeto  
-- 🔗 [Projeto 2](#) — Descrição rápida sobre o projeto  
-- 🔗 [Projeto 3](#) — Descrição rápida sobre o projeto  
+- 🔗 [CaliMind](https://calimind.vercel.app/) — Descrição rápida sobre o projeto  
+- 🔗 [Vinheria Agnello](http://vinheriaagnello.vercel.app/) — Descrição rápida sobre o projeto  
+- 🔗 [Prova de Front Fiap](https://provafiap.vercel.app/) — Descrição rápida sobre o projeto  
 
 ---
 
 ## 📄 Meu Currículo
 
-- 👉 [Acesse meu currículo aqui](#)  
+- 👉 [Acesse meu currículo aqui](Curriculo Bruno Gama.pdf) 
 
 ---
 
 ## 🌐 Meus Sites e Portfólios
 
-- 🌍 [Meu Portfólio](#)  
+- 🌍 [Meu Portfólio](https://portifoliobgm.vercel.app/)  
 - 🌍 [Meu Blog/Página Pessoal](#)  
 
 ---
