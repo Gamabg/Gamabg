@@ -46,13 +46,14 @@
 
 
 ## 📊 GitHub Stats
-
+<div class="display: flex;  flex-direction:row;">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gamabg&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamabg&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
 </p>
+</div>
 
 
 <p align="center"><b>⭐ Vamos nos conectar e criar coisas incríveis juntos!</b></p>
