@@ -1,14 +1,14 @@
-<h1 align="center"> Fala aí, eu sou o Bruno! </h1>
+<h1 align="center">Olá, eu sou o Bruno! 👋</h1>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Cursando **Engenharia de Software** na **FIAP**  
-- 🎓 Formado em **Ensino Médio Técnico em Informática** pela **FIAP**  
-- 🚀 Buscando me tornar um **Dev Full-Stack**  
-- 🏋️‍♂️ Amante de academia e desafios!  
-- 💡 Já atuei como **Monitor de TI**, apoiando colegas e aprendendo muito!
+- 🎓 Estudante de **Engenharia de Software** na **FIAP**
+- 💻 Técnico em Informática formado pela **FIAP**
+- 🚀 Em busca de me tornar um **Desenvolvedor Full-Stack**
+- 🏋️‍♂️ Apaixonado por academia, desafios e superação!
+- 💡 Experiência como **Monitor de TI**, sempre ajudando colegas e aprendendo junto
 
 ---
 
@@ -30,26 +30,26 @@
 
 ---
 
-## 📁 Meus Projetos
+## 📁 Projetos em Destaque
 
-> Aqui você pode colocar links pros seus projetos mais legais, com descrição!
+> Veja alguns dos meus principais projetos e do que se tratam:
 
-- 🔗 [CaliMind](https://calimind.vercel.app/) — Descrição rápida sobre o projeto  
-- 🔗 [Vinheria Agnello](http://vinheriaagnello.vercel.app/) — Descrição rápida sobre o projeto  
-- 🔗 [Prova de Front Fiap](https://provafiap.vercel.app/) — Descrição rápida sobre o projeto  
+- 🔗 [CaliMind](https://calimind.vercel.app/) — Plataforma de Calistenia e bem estar!  
+- 🔗 [Vinheria Agnello](http://vinheriaagnello.vercel.app/) — E-commerce fictício para vinhos  
+- 🔗 [Prova de Front Fiap](https://provafiap.vercel.app/) — Avaliação prática de front-end na FIAP  
 
 ---
 
 ## 📄 Meu Currículo
 
-- 👉 [Acesse meu currículo aqui](Curriculo Bruno Gama.pdf) 
+- 👉 [Acesse meu currículo aqui](Curriculo%20Bruno%20Gama.pdf)
 
 ---
 
-## 🌐 Meus Sites e Portfólios
+## 🌐 Sites & Portfólios
 
-- 🌍 [Meu Portfólio](https://portifoliobgm.vercel.app/)  
-- 🌍 [Meu Blog/Página Pessoal](#)  
+- 🌍 [Portfólio](https://portifoliobgm.vercel.app/)
+- 🌍 [Blog/Página Pessoal](#) _(em breve)_
 
 ---
 
@@ -58,14 +58,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gamabg&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamabg&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
 
-## 🏆 Conquistas e Atividades
+## 🏆 Conquistas & Atividades
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gamabg&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" />
@@ -75,10 +74,10 @@
 
 ## ⚡ Curiosidades
 
-- 🛠️ Sempre aprendendo algo novo!  
-- 👾 Não tenho medo de quebrar o código… faz parte!  
-- 🤝 Adoro colaborar e trocar ideias sobre tecnologia.
+- 🛠️ Sempre buscando aprender algo novo
+- 👾 Não tenho medo de errar – faz parte do processo!
+- 🤝 Curto colaborar, compartilhar ideias e crescer junto com a comunidade
 
 ---
 
-**⭐ Vamos nos conectar e construir coisas incríveis juntos!**
+<p align="center"><b>⭐ Vamos nos conectar e criar coisas incríveis juntos!</b></p>
