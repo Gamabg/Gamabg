@@ -32,8 +32,6 @@
 
 ## 📁 Projetos em Destaque
 
-> Veja alguns dos meus principais projetos e do que se tratam:
-
 - 🔗 [CaliMind](https://calimind.vercel.app/) — Plataforma de Calistenia e bem estar!  
 - 🔗 [Vinheria Agnello](http://vinheriaagnello.vercel.app/) — E-commerce fictício para vinhos  
 - 🔗 [Prova de Front Fiap](https://provafiap.vercel.app/) — Avaliação prática de front-end na FIAP  
@@ -61,22 +59,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamabg&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
 </p>
-
----
-
-## 🏆 Conquistas & Atividades
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gamabg&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" />
-</p>
-
----
-
-## ⚡ Curiosidades
-
-- 🛠️ Sempre buscando aprender algo novo
-- 👾 Não tenho medo de errar – faz parte do processo!
-- 🤝 Curto colaborar, compartilhar ideias e crescer junto com a comunidade
 
 ---
 
