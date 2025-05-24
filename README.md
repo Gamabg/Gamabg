@@ -10,7 +10,7 @@
 - 🏋️‍♂️ Apaixonado por academia, desafios e superação!
 - 💡 Experiência como **Monitor de TI**, sempre ajudando colegas e aprendendo junto
 
----
+
 
 ## 🚀 Tech Stack & Ferramentas
 
@@ -18,7 +18,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,angular,html,css,bootstrap,figma,illustrator,mssql,azure" alt="Tech Stack" />
 </p>
 
----
 
 ## 🌍 Onde me encontrar
 
@@ -28,7 +27,6 @@
   </a>
 </p>
 
----
 
 ## 📁 Projetos em Destaque
 
@@ -36,20 +34,17 @@
 - 🔗 [Vinheria Agnello](http://vinheriaagnello.vercel.app/) — E-commerce fictício para vinhos  
 - 🔗 [Prova de Front Fiap](https://provafiap.vercel.app/) — Avaliação prática de front-end na FIAP  
 
----
 
 ## 📄 Meu Currículo
 
 - 👉 [Acesse meu currículo aqui](Curriculo%20Bruno%20Gama.pdf)
 
----
 
 ## 🌐 Sites & Portfólios
 
 - 🌍 [Portfólio](https://portifoliobgm.vercel.app/)
 - 🌍 [Blog/Página Pessoal](#) _(em breve)_
 
----
 
 ## 📊 GitHub Stats
 
@@ -60,6 +55,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamabg&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
 </p>
 
----
 
 <p align="center"><b>⭐ Vamos nos conectar e criar coisas incríveis juntos!</b></p>
