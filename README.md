@@ -1,7 +1,7 @@
 <h1 align="center">✨ Fala aí, eu sou o Bruno! ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Estudante+de+Engenharia+de+Software;Formado+em+Técnico+em+Informática;Futuro+Dev+Full-Stack;Apaixonado+por+tecnologia!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Estudante+de+Engenharia+de+Software;Formado+em+Técnico+em+Informática;Futuro+Dev+Full-Stack;Apaixonado+por+tecnologia!+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -38,9 +38,9 @@
 
 > Aqui você pode colocar links pros seus projetos mais legais, com descrição!
 
-- 🔗 [Projeto 1](https://calimind.vercel.app/) — Descrição rápida sobre o projeto  
-- 🔗 [Projeto 2](https://vinheriaagnello.vercel.app/) — Descrição rápida sobre o projeto  
-- 🔗 [Projeto 3](https://provafiap.vercel.app/) — Descrição rápida sobre o projeto  
+- 🔗 [Projeto 1](#) — Descrição rápida sobre o projeto  
+- 🔗 [Projeto 2](#) — Descrição rápida sobre o projeto  
+- 🔗 [Projeto 3](#) — Descrição rápida sobre o projeto  
 
 ---
 
@@ -52,7 +52,7 @@
 
 ## 🌐 Meus Sites e Portfólios
 
-- 🌍 [Meu Portfólio](https://portifoliobgm.vercel.app/)  
+- 🌍 [Meu Portfólio](#)  
 - 🌍 [Meu Blog/Página Pessoal](#)  
 
 ---
