@@ -36,7 +36,8 @@
 
 ## 📄 Meu Currículo
 
-- 👉 [Acesse meu currículo aqui](Curriculo%20Bruno%20Gama.pdf)
+- 👉 [Acesse meu currículo aqui](bruno-gama-masseiras-cv.pdf)
+
 
 
 ## 🌐 Sites & Portfólios
