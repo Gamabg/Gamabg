@@ -36,15 +36,13 @@
 
 ## 📄 Meu Currículo
 
-- 👉 [Acesse meu currículo aqui](BRUNO-GAMA-MASSEIRAS-CV.pdf)
+- 👉 [Acesse meu currículo aqui]()
 
 
 
 ## 🌐 Sites & Portfólios
 
-- 🌍 [Portfólio](https://portifoliobgm.vercel.app/)
-- 🌍 [Blog/Página Pessoal](#) _(em breve)_
-
+- 🌍 [Portfólio](https://brunogama.vercel.app/)
 
 ## 📊 GitHub Stats
 
