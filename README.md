@@ -5,9 +5,9 @@
 
 - 🎓 Estudante de **Engenharia de Software** na **FIAP**
 - 💻 Técnico em Informática formado pela **FIAP**
-- 🚀 Em busca de me tornar um **Desenvolvedor Full-Stack**
+- 🚀 Em busca de me tornar um **Engenheiro de Software**
 - 🏋️‍♂️ Apaixonado por academia, desafios e superação!
-- 💡 Experiência como **Monitor de TI**, sempre ajudando colegas e aprendendo junto
+- 💡 Experiência como **Helpdesk Analista de Suporte N1 e Monitor de TI**.
 
 
 
@@ -29,15 +29,13 @@
 
 ## 📁 Projetos em Destaque
 
-- 🔗 [CaliMind](https://calimind.vercel.app/) — Plataforma de Calistenia e bem estar!  
-- 🔗 [Vinheria Agnello](http://vinheriaagnello.vercel.app/) — E-commerce fictício para vinhos  
-- 🔗 [Prova de Front Fiap](https://provafiap.vercel.app/) — Avaliação prática de front-end na FIAP  
+- 🔗 [CaliMind](https://calimind.vercel.app/) — Plataforma de Calistenia e bem estar!   
+- 🔗 [Solara](https://gamabg.github.io/Solara/) — Site Oficial Solara energia em Movimento!  
 
 
 ## 📄 Meu Currículo
 
-- 👉 [Acesse meu currículo aqui]()
-
+- 👉 [Acesse meu currículo aqui](Curriculo_Bruno_Gama_Masseiras_DEV.pdf)
 
 
 ## 🌐 Sites & Portfólios
@@ -52,4 +50,4 @@
 
 ---
 
-<p align="center"><b>⭐ Vamos nos conectar e criar coisas incríveis juntos!</b></p>
+<p align="center"><b>Aguardo seu contato!</b></p>
